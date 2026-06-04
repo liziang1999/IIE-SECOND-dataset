@@ -1,6 +1,9 @@
 # IIE-SECOND-dataset数据集
 
 IIE-SECOND-dataset数据集的应用场景为恶意/正常流量分类
+
+pcap版数据集由xxxMB正常流量pcap和xxxMB恶意流量pcap构成，共xxxGB
+
 pcap版数据集由828MB正常流量pcap和664MB恶意流量pcap构成，共1.45GB
 
 **目前为部分样本的版本，完整版本正在整理中**
